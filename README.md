@@ -1,5 +1,7 @@
 # sd-bridge
+
 A bridge for QQ and Stable-diffusion webui
+
 连接 novelai 到 QQ
 
 Pre-environment
