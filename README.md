@@ -10,4 +10,4 @@ Pre-environment
 - 网络接口 [sd-bridge](https://github.com/Siltal/sd-bridge)
 - Python SDK [yiri-mirai](https://yiri-mirai.wybxc.cc/)
 - 网络接口 [mirai-api-http](https://github.com/project-mirai/mirai-api-http)
-- QQ 控制台 [https://github.com/mamoe/mirai-console]
+- QQ 控制台 [mirai-console](https://github.com/mamoe/mirai-console)
